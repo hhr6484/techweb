@@ -1,0 +1,53 @@
+body{
+    margin: 0;
+    padding: 0;
+}
+.banners{
+    background-image: url(/banner.avif);
+    padding: 250px;
+    background-repeat: no-repeat;
+    background-image: cover;
+}
+.thingback{
+    background-image: url(/colorfull.avif);
+    background-position:center;
+    padding: 150px;
+    
+}
+.bcdd{
+    padding: 100px;
+    background-color: black;
+}
+.bachhh{
+     background-color: white;
+     color: black;
+     padding: 150px;
+}
+.bacher{
+    padding:400px;
+}
+.bgghg{
+    background-image: url(/good-img.avif);
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding: 250px;
+    background-position: center;
+    
+}
+.thingsvc{
+    padding:100px;
+}
+.tvthings{
+    background-color: black;
+    padding: 200px;
+}
+.thingstrat{
+    background-color: black;
+    padding: 200px;
+}
+.thingsform{
+    padding: 250px;
+}
+.copyrights{
+    padding: 25px;
+}
